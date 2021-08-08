@@ -463,7 +463,8 @@
     height: 100%;
     background: linear-gradient(70deg, black, #646363); }
     .contenedorarticulos .imgarticulo {
-      width: 400px; }
+      width: 400px;
+      height: 350px; }
     .contenedorarticulos h2 {
       font-size: 60px;
       padding: 15px;
