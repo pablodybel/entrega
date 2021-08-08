@@ -238,7 +238,8 @@
       font-family: 'Shadows Into Light', cursive; }
     .contenedorarticulos p {
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      color: #ccc; } }
+      color: #ccc;
+      text-align: justify; } }
 
 @media only screen and (min-width: 600px) and (max-width: 991px) {
   .titulo {
@@ -355,7 +356,8 @@
       font-family: 'Shadows Into Light', cursive; }
     .contenedorarticulos p {
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      color: #ccc; } }
+      color: #ccc;
+      text-align: justify; } }
 
 @media only screen and (min-width: 992px) {
   .titulo {
@@ -472,4 +474,5 @@
       font-family: 'Shadows Into Light', cursive; }
     .contenedorarticulos p {
       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-      color: #c2c2c2; } }
+      color: #c2c2c2;
+      text-align: justify; } }
